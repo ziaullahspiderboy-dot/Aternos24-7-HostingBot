@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "cuskeel.aternos.host:11794",
+    "port": 11794,
     "version": "",
     "try-creative": false
   },
